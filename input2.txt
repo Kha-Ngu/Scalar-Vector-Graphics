@@ -1,0 +1,19 @@
+rectangle 0 0 800 800 darkblue
+polygon 5 yellow 200 800 600 800 500 600 300 600 200 800
+rectangle 300 600 200 30 lightyellow
+polygon 4 yellow 320 600 480 600 440 400 360 400
+rectangle 360 400 80 30 lightyellow
+polygon 4 yellow 370 400 430 400 410 250 390 250
+rectangle 390 250 20 20 lightyellow
+polygon 3 yellow 395 250 405 250 400 150
+rectangle 395 150 10 10 lightyellow
+circle 400 140 5 yellow
+circle 100 150 3 white
+circle 200 100 4 lightgray
+circle 500 50 2 white
+circle 700 200 5 silver
+circle 350 300 3 white
+circle 600 400 2 lightgray
+circle 450 100 3 white
+circle 650 100 50 white
+circle 660 100 40 darkblue

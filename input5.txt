@@ -1,0 +1,15 @@
+circle 500 500 500 yellow
+circle 350 400 50 black
+circle 650 400 50 black
+circle 500 600 100 black
+circle 500 500 10 white
+circle 400 400 8 white
+circle 600 400 8 white
+polygon 350 300 370 260 390 300 red
+polygon 370 260 390 260 410 300 red
+polygon 650 300 630 260 610 300 red
+polygon 630 260 610 260 590 300 red
+polygon 550 200 570 160 590 200 red
+polygon 570 160 590 160 610 200 red
+polygon 450 200 430 160 410 200 red
+polygon 430 160 410 160 390 200 red

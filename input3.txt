@@ -1,0 +1,72 @@
+rectangle 0 0 800 600 black
+circle 100 50 5 white
+circle 200 100 6 white
+circle 300 150 4 white
+circle 400 200 5 white
+circle 500 250 7 white
+circle 600 300 6 white
+circle 700 350 5 white
+circle 100 400 4 white
+circle 200 450 6 white
+circle 300 500 5 white
+circle 400 550 7 white
+circle 500 600 4 white
+circle 100 50 8 white 
+circle 200 100 10 white 
+circle 300 150 12 white 
+circle 400 200 6 white 
+circle 500 250 9 white 
+circle 600 300 7 white 
+circle 700 350 10 white 
+circle 800 400 15 white 
+circle 150 50 5 white 
+circle 250 75 8 white 
+circle 350 100 6 white 
+circle 450 150 11 white 
+circle 550 200 7 white 
+circle 650 250 9 white 
+circle 750 300 14 white
+
+
+circle 100 50 8 white 
+circle 200 100 10 white 
+circle 300 150 12 white 
+circle 400 200 6 white 
+circle 500 250 9 white 
+circle 600 300 7 white 
+circle 700 350 10 white 
+circle 800 400 15 white
+circle 150 50 5 white
+circle 250 75 8 white
+circle 350 100 6 white 
+circle 450 150 11 white 
+circle 550 200 7 white 
+circle 650 250 9 white 
+circle 750 300 14 white 
+
+circle 50 10 2 white 
+circle 120 30 1 white 
+circle 220 40 2 white 
+circle 300 80 1 white 
+circle 380 120 2 white 
+circle 450 50 1 white
+circle 550 70 3 white 
+circle 600 10 1 white 
+circle 680 90 2 white 
+circle 760 150 2 white 
+circle 800 200 1 white 
+circle 70 160 1 white 
+circle 160 200 1 white 
+circle 250 220 1 white 
+circle 330 180 1 white 
+circle 400 160 2 white 
+circle 500 90 2 white 
+circle 580 130 1 white 
+circle 650 50 1 white 
+circle 730 110 1 white 
+
+circle 400 500 30 white  
+circle 400 550 40 white   
+circle 400 590 50 white 
+circle 420 520 10 white 
+

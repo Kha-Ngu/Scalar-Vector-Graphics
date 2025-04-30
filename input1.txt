@@ -1,0 +1,5 @@
+rectangle 0 400 800 600 white
+rectangle 0 0 800 400 lightblue
+rectangle 100 300 200 100 brown
+polygon 3 red 100 300 200 200 300 300
+circle 700 100 50 yellow
